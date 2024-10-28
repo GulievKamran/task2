@@ -1,0 +1,61 @@
+* {
+    outline: none;
+}
+
+input {
+    display: block;
+    color: blue;
+    margin: auto;
+}
+
+label {
+    margin-bottom: 10px;
+}
+.p {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.qeydiyyat {
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#LogIN {
+    width: 70%;
+    margin: auto;
+    height: 50px;
+    text-align: center;
+}
+
+#password
+{
+    width: 70%;
+    margin: auto;
+    height: 50px;
+    text-align: center;
+}
+ .text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .chatbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+ }
+#submit { 
+    width: 50%;
+    background-color: lightblue;
+    margin-top: 20px;
+    text-align: center;
+    height: 50px;
+}
